@@ -1,4 +1,4 @@
-# GIT Task 1 - Repository Initialization and Version Control
+# GIT - Repository Initialization and Version Control
 This task is designed to help you gain skills in working with GIT. You will perform various operations individually and document them using screenshots with comments when necessary.
 
 ## Table of Contents
